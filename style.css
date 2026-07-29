@@ -1,0 +1,207 @@
+/* ===========================
+   AI Medical Project CSS
+=========================== */
+
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#f0f8ff;
+    margin:0;
+    padding:0;
+    text-align:center;
+    color:#333333;
+
+}
+
+header{
+
+    background-color:#0077b6;
+    color:white;
+    padding:25px;
+
+}
+
+header h1{
+
+    margin:0;
+    font-size:40px;
+
+}
+
+header p{
+
+    font-size:20px;
+
+}
+
+nav{
+
+    background-color:#023e8a;
+    padding:15px;
+
+}
+
+nav a{
+
+    color:white;
+    text-decoration:none;
+    font-size:20px;
+    margin:20px;
+    font-weight:bold;
+
+}
+
+nav a:hover{
+
+    color:yellow;
+
+}
+
+h2{
+
+    color:#00509d;
+    margin-top:30px;
+
+}
+
+p{
+
+    font-size:18px;
+    line-height:1.8;
+    width:85%;
+    margin:auto;
+    margin-top:15px;
+    margin-bottom:15px;
+
+}
+
+ul{
+
+    width:60%;
+    margin:auto;
+    text-align:left;
+    font-size:18px;
+
+}
+
+ol{
+
+    width:60%;
+    margin:auto;
+    text-align:left;
+    font-size:18px;
+
+}
+
+table{
+
+    border-collapse:collapse;
+    margin:auto;
+    margin-top:20px;
+    margin-bottom:20px;
+    width:85%;
+
+}
+
+table th{
+
+    background-color:#0077b6;
+    color:white;
+    padding:12px;
+    border:1px solid black;
+
+}
+
+table td{
+
+    padding:12px;
+    border:1px solid black;
+    background-color:white;
+
+}
+
+img{
+
+    margin-top:20px;
+    margin-bottom:20px;
+    border-radius:12px;
+    box-shadow:0px 0px 10px gray;
+    max-width:90%;
+
+}
+
+button{
+
+    background-color:#0077b6;
+    color:white;
+    padding:12px 25px;
+    font-size:18px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    margin:10px;
+
+}
+
+button:hover{
+
+    background-color:#0096c7;
+
+}
+
+iframe{
+
+    margin-top:20px;
+    margin-bottom:20px;
+    border:3px solid #0077b6;
+    border-radius:10px;
+
+}
+
+input[type="radio"]{
+
+    margin-top:10px;
+    margin-bottom:10px;
+
+}
+
+#demo,
+#countries,
+#hospitals,
+#fact,
+#answer1,
+#answer2,
+#answer3,
+#answer4,
+#answer5{
+
+    font-size:22px;
+    color:green;
+    font-weight:bold;
+    margin-top:20px;
+
+}
+
+footer{
+
+    background-color:#023e8a;
+    color:white;
+    padding:20px;
+    margin-top:40px;
+
+}
+
+footer p{
+
+    color:white;
+    width:100%;
+
+}
+
+hr{
+
+    margin-top:30px;
+    margin-bottom:30px;
+    border:1px solid lightgray;
+
+}
